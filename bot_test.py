@@ -27,4 +27,4 @@ def send_email(subject, body):
     except Exception as e:
         print("❌ Failed to send email:", str(e))
 # 🔔 Test it!
-send_email("✅ Test from DHU Bot", "This is a test email to confirm your email setup works.")
+send_email("✅ Test from DHU Bot", "This is a test email to confirm your gandu email setup works.")
